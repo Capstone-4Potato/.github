@@ -4,7 +4,7 @@
 ![image](https://github.com/Capstone-4Potato/.github/assets/108220648/75fc0a84-6d59-44f3-b94d-c7622f24a434)
 
 ### 배포 주소
-Appstore :  ![다운로드 바로가기](https://apps.apple.com/kr/app/발밤발밤-balbambalbam/id6505030399)
+Appstore : [download link](https://apps.apple.com/kr/app/발밤발밤-balbambalbam/id6505030399)
 
 &nbsp;
 
@@ -27,5 +27,4 @@ Appstore :  ![다운로드 바로가기](https://apps.apple.com/kr/app/발밤발
 
 |<center> AI </center>|<center>Backend</center>|<center>Backend</center>|<center>Frontend</center>|
 |:--------:|:--------:|:--------:|:--------:|
-|<img src="https://github.com/Capstone-4Potato/.github/assets/108220648/5a346cde-f33b-48e1-9051-c7ed0fb8c424.png" width="150"/>|<img src="https://github.com/Capstone-4Potato/.github/assets/108220648/98dc2ea5-9ec0-4aad-88c0-cfda1234de8e.png" width="150"/>|<img src="https://github.com/Capstone-4Potato/.github/assets/108220648/75e7d1f6-c6a0-428f-91ee-f1be3279a972.png" width="150"/>|<img src="https://github.com/Capstone-4Potato/.github/assets/108220648/ea8a9a02-1077-45ce-b0dc-6d2583312369.png" width="150"/>|
 |<center> [@seom-j](https://github.com/seom-j) </center>|<center>[@Seungyooon](https://github.com/yoownny)</center> |<center>[@Gabin](https://github.com/gabean13)</center> |<center>[@meteorqz6](https://github.com/meteorqz6)</center> |
