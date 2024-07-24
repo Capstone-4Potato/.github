@@ -4,7 +4,7 @@
 ![image](https://github.com/Capstone-4Potato/.github/assets/108220648/75fc0a84-6d59-44f3-b94d-c7622f24a434)
 
 ### 배포 주소
-7월 ios 출시 예정  
+Appstore :  ![다운로드 바로가기](https://apps.apple.com/kr/app/발밤발밤-balbambalbam/id6505030399)
 
 &nbsp;
 
