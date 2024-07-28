@@ -3,8 +3,10 @@
 ![대표화면](https://github.com/Capstone-4Potato/.github/assets/108220648/61e54f7d-b165-4700-a1af-2b0d9d137cf0)
 ![image](https://github.com/Capstone-4Potato/.github/assets/108220648/75fc0a84-6d59-44f3-b94d-c7622f24a434)
 
-### 배포 주소
-Appstore : [download link](https://apps.apple.com/kr/app/발밤발밤-balbambalbam/id6505030399)
+### Links
+Download Link [Click Here](https://apps.apple.com/kr/app/발밤발밤-balbambalbam/id6505030399)
+
+README [Click Here](https://github.com/Capstone-4Potato/.github)
 
 &nbsp;
 
