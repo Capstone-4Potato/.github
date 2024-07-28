@@ -106,7 +106,3 @@ iOS : [앱 설치 바로가기](https://apps.apple.com/kr/app/%EB%B0%9C%EB%B0%A4
 
 &nbsp;
 
-### 시스템 구조도
-![img.png](img.png)
-
-
