@@ -27,6 +27,6 @@ README [Click Here](https://github.com/Capstone-4Potato/.github)
 
 개발기간: 2024.03 ~
 
-|<center> AI </center>|<center>Backend</center>|<center>Backend</center>|<center>Frontend</center>|
-|:--------:|:--------:|:--------:|:--------:|
-|<center> [@seom-j](https://github.com/seom-j) </center>|<center>[@Seungyooon](https://github.com/yoownny)</center> |<center>[@Gabin](https://github.com/gabean13)</center> |<center>[@meteorqz6](https://github.com/meteorqz6)</center> |
+|<center> AI </center>|<center>Backend</center>|<center>Frontend</center>|
+|:--------:|:--------:|:--------:|
+|<center> [@seom-j](https://github.com/seom-j) </center>|<center>[@Gabin](https://github.com/gabean13)</center> <br> <center>[@Seungyooon](https://github.com/yoownny)</center>|<center>[@SeoHyun1024](https://github.com/SeoHyun1024)</center> <br> <center>[@meteorqz6](https://github.com/meteorqz6)</center> |
