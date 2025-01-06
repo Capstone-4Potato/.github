@@ -1,7 +1,7 @@
-# BalbamBalbam - 외국인을 위한 한국어 발음 교정 시스템
+# BalbamBalbam - 외국인을 위한 한국어 발음 학습 서비스
 
-![대표화면](https://github.com/Capstone-4Potato/.github/assets/108220648/61e54f7d-b165-4700-a1af-2b0d9d137cf0)
-![image](https://github.com/Capstone-4Potato/.github/assets/108220648/75fc0a84-6d59-44f3-b94d-c7622f24a434)
+<img width="1380" alt="image" src="https://github.com/user-attachments/assets/ee1db174-68e0-4e68-a5ef-b82afd095960" />
+<img width="1336" alt="image" src="https://github.com/user-attachments/assets/7d46fe4c-66ff-4643-a0e5-ce4f831cef0d" />
 
 ### Links
 Download Link [Click Here](https://apps.apple.com/kr/app/발밤발밤-balbambalbam/id6505030399)
@@ -11,13 +11,18 @@ README [Click Here](https://github.com/Capstone-4Potato/.github)
 &nbsp;
 
 ### 프로젝트 소개
-**외국인들을 위한 한국어 발음 교정 Application**
-- **학습하기** : 듣기 - 따라하기 - 피드백받기 의 3단계의 반복을 통한 효과적인 발음 개선
-   - 듣기 : TTS로 사용자 연령대, 성별에 따른 올바른 한국어 발음 음성 제공
-   - 피드백 받기 : 인공지능을 활용한 5가지 _(STT, 정확도 점수, Waveform, 추천 학습카드, 음성 다시듣기)_ 피드백 제공
-- **발음 테스트** : 30개 단어 발음 테스트를 통해 사용자의 발음 취약음을 파악하고, 이를 카드 리스트에 표시
-- **카드 생성** : 사용자가 입력한 text로 카드 생성(로마자 발음기호, 발음 음성), 이 카드로 즉시 학습하기 가능
-- **ETC** : 복습하기, 학습 진척도 등 다양한 추가 기능
+BalbamBalbam은 한국어 발음 학습을 위한 앱입니다.
+초급자든 고급자든 상관없이, 정확하고 자신 있게 한국어를 학습하고 싶은 누구나 사용할 수 있습니다.
+- **개인화된 학습 추천**: 사용자의 레벨에 맞춘 일일 학습 콘텐츠를 자동으로 추천하여 매일 학습 목표를 달성할 수 있도록 도와줍니다.
+- **레벨별 학습 코스**: Beginner, Intermediate, Advanced 단계로 구성된 체계적인 학습 코스를 통해 단계별로 한국어 발음을 향상시킬 수 있습니다.
+- **맞춤형 복습 시스템**: 북마크한 카드는 Saved Cards에서, 완벽하게 습득하지 못한 발음은 Missed Cards에서 효율적으로 복습할 수 있습니다.
+- **출석체크**: 앱을 방문한다면, 방문한 날짜를 달력을 통해 확인할 수 있습니다.
+- **오늘의 카드 추천**: 단홈화면에서 매일 다른 한국어 단어를 추천해주고 학습할 수 있습니다.
+- **사용자 입력 문장 학습**: 원하는 영어 문장을 입력하면 즉시 한국어로 번역되어 발음 학습을 할 수 있는 Custom Sentence 기능을 제공합니다.
+- **발음 테스트**: 서울대학교 언어교육 자료를 기반으로 초기 평가를 통해 약한 음소를 식별합니다.
+- **약한 음소 시각화**: 색상으로 구분된 학습 카드를 통해 약한 음소에 쉽게 집중하고 개선할 수 있습니다.
+- **상세한 피드백**: 파형 비교, 오류의 텍스트 시각화, 발음 정확도 점수를 포함한 구체적인 피드백을 제공합니다.
+- **학습 성과 분석**: Report 페이지에서 학습 기간, 습득한 발음 수, 정확도 등 상세한 학습 성과를 확인할 수 있습니다.
 
 &nbsp;
 
