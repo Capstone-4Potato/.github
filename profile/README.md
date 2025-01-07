@@ -1,6 +1,6 @@
 # BalbamBalbam - 외국인을 위한 한국어 발음 학습 서비스
 
-<img width="1380" alt="image" src="https://github.com/user-attachments/assets/ee1db174-68e0-4e68-a5ef-b82afd095960" />
+<img width="1380" alt="image" src="https://github.com/user-attachments/assets/f6f5609e-4261-4bef-9d7a-287630ea33b9" />
 <img width="1336" alt="image" src="https://github.com/user-attachments/assets/7d46fe4c-66ff-4643-a0e5-ce4f831cef0d" />
 
 ### Links
